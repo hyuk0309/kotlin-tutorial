@@ -13,7 +13,6 @@ dependencies {
     implementation(kotlin("stdlib"))
 
     testImplementation(kotlin("test"))
-    testImplementation("org.assertj:assertj-core:3.13.2")
     testImplementation("com.willowtreeapps.assertk:assertk-jvm:0.25")
 }
 
